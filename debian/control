@@ -1,0 +1,14 @@
+Source: lua-matomo
+Section: utils
+Priority: optional
+Maintainer: augmentedlogic development <dev@augmentedlogic.com>
+Homepage: https://github.com/wolfha/lua-matomo.git
+
+Package: lua-matomo
+Architecture: all
+Section: utils
+Priority: optional
+Depends: lua, lua-json
+Description: lua client for the Matomo Analytics reporting API
+ lua library to get data from the Matomo Analytics reporting API
+

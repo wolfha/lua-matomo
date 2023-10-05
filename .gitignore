@@ -1,1 +1,10 @@
 example/test.lua
+notes.txt
+debian/lua-matomo/
+debian/lua-matomo.substvars
+debian/lua-matomo.debhelper.log
+debian/debhelper-build-stamp
+debian/files
+debian/.debhelper
+
+
